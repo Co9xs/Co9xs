@@ -1,5 +1,5 @@
-## Ryo Fujishima (Shima)
-
+# Ryo Fujishima (Shima🐾)
+I am a web frontend developer who interested in performance tuning, type-systems, etc. 👀
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,3 +7,5 @@
 </a>
 </div>
 
+## Others
+Follow on Twitter! [@Co9xsR](https://twitter.com/Co9xsR)
