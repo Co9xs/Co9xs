@@ -1,6 +1,4 @@
-Hi, there.👋
-
-I am Junior Web Frontend Engineer who interested in React, TypeScript, etc.👀
+## Ryo Fujishima (Co9xs)
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
