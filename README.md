@@ -1,6 +1,6 @@
-Hi, there👋
+Hi, there.👋
 
-I am Junior Web Frontend Engineer who interested in React, TypeScript, etc👀
+I am Junior Web Frontend Engineer who interested in React, TypeScript, etc.👀
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
