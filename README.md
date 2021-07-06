@@ -1,4 +1,4 @@
-## Ryo Fujishima (Co9xs)
+## Ryo Fujishima (Shima)
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
