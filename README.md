@@ -1,4 +1,4 @@
-# Ryo Fujishima (Shima🐾)
+# Ryo Fujishima (a.k.a Shima🐾)
 I am a web frontend developer who interested in performance tuning, type-systems, etc.
 
 My portfolio is [here](https://fujishima.dev/). 🏠
