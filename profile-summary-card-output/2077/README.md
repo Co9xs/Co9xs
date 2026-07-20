@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Co9xs/Co9xs/master/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
